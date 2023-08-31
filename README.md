@@ -3,13 +3,21 @@
 Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
 
 ###  🚀 Proyectos.
-Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos.
-##### [Todo List](https://jesusvittee.github.io/todo-list-react/)
-##### [Platzi Travel](https://jesusvittee.github.io/platzi-travel/public/)
-##### [Yard Sale](https://jesusvittee.github.io/Yard-sale/)
-##### [Shopi](https://jesusvittee.github.io/shopi/)
-##### [Netflix](https://jesusvittee.github.io/Netflix/)
-##### [Oxxo](https://jesusvittee.github.io/oxxo/)
+Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos y algunos detalles 
+##### Todo List
+[Todo List](https://jesusvittee.github.io/todo-list-react/)
+- Todo List 
+-
+##### Platzi Travel
+[Platzi Travel](https://jesusvittee.github.io/platzi-travel/public/)
+##### Yard Sale
+[Yard Sale](https://jesusvittee.github.io/Yard-sale/)
+##### Shopi
+[Shopi](https://jesusvittee.github.io/shopi/)
+##### Netflix
+[Netflix](https://jesusvittee.github.io/Netflix/)
+##### Oxxo
+[Oxxo](https://jesusvittee.github.io/oxxo/)
 
 
 ###  💻 Skills.
