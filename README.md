@@ -9,7 +9,7 @@ Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tan
 
 
 ### Mi pagina web.
-[link](www.jesusvite.com)
+[link](https://jesusvite.com/)
 
 <!--
 **jesusvittee/jesusvittee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
