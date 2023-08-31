@@ -20,7 +20,8 @@ Tome los cursos en Platzi le dejo el Link para que pueda comprobar [Comprobar!!!
 
 |Dev Tools|
 |---|
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>|
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 📈My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangcode&show_icons=true&theme=city_lights)](https://github.com/ivangcode/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivangcode&show_icons=true&theme=city_lights)|
 |---|---|
