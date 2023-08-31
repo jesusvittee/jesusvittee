@@ -1,6 +1,5 @@
-![fondo react](https://github.com/jesusvittee/jesusvittee/assets/127768350/dc2d2184-252a-443e-a071-31e8353797d0)
+![fondo perfil ](https://github.com/jesusvittee/jesusvittee/assets/127768350/e593c932-934f-45db-aa1d-a372eb502290)
 
-### Hi there 👋
 
 <!--
 **jesusvittee/jesusvittee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
