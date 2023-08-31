@@ -3,6 +3,7 @@
 Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
 
 ###  🚀 Proyectos.
+Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos.
 ➡️ [Todo List](https://jesusvittee.github.io/todo-list-react/)
 ➡️ [Platzi Travel](https://jesusvittee.github.io/platzi-travel/public/)
 ➡️ [Yard Sale](https://jesusvittee.github.io/Yard-sale/)
