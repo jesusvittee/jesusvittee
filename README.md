@@ -2,11 +2,11 @@
 
 Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
 
-##Proyectos
+###  🚀 Proyectos
 
-##Skills
+### Skills
 
-## Mi pagina web
+### Mi pagina web
 
 <!--
 **jesusvittee/jesusvittee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
