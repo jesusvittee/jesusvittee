@@ -13,7 +13,7 @@ Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo n
 
 
 ###  💻 Skills.
-Tome los cursos en Platzi, 
+🟩 Tome los cursos en Platzi, 
 todas mis certificaciones [aquí](https://platzi.com/p/jesusvittee/).
 
 |Lenguaje de programación|Frontend|Backend|
