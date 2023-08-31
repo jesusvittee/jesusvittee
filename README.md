@@ -1,5 +1,12 @@
 ![fondo perfil ](https://github.com/jesusvittee/jesusvittee/assets/127768350/e593c932-934f-45db-aa1d-a372eb502290)
 
+Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
+
+##Proyectos
+
+##Skills
+
+## Mi pagina web
 
 <!--
 **jesusvittee/jesusvittee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
