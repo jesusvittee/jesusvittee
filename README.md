@@ -25,4 +25,4 @@ todas mis certificaciones [aquí](https://platzi.com/p/jesusvittee/).
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Mi pagina web.
-[link](https://jesusvite.com/)
+Tengo una pagina web por si gustas visitarlo [aquí](https://jesusvite.com/)
