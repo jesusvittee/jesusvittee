@@ -7,6 +7,7 @@ Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tan
 
 ###  💻 Skills.
 
+Tome los cursos en Platzi le dejo el Link para que pueda comprobar [Comprobar!!!](https://platzi.com/p/jesusvittee/)
 
 ### Mi pagina web.
 [link](https://jesusvite.com/)
