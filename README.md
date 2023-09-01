@@ -9,7 +9,7 @@ Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo n
 | [Ver web](https://jesusvittee.github.io/todo-list-react/) 
 [codigo](https://github.com/jesusvittee/todo-list-react) |
 
-| [Ver web](https://jesusvittee.github.io/platzi-travel/public/)
+[Ver web](https://jesusvittee.github.io/platzi-travel/public/)
 [codigo](https://github.com/jesusvittee/platzi-travel) |
 ##### Yard Sale
 - [Ver web](https://jesusvittee.github.io/Yard-sale/)
