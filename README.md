@@ -6,9 +6,8 @@ Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tan
 Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos y algunos detalles 
 |Todo List|Platzi Travel|
 |---|---|
-| [Ver web](https://jesusvittee.github.io/todo-list-react/) 
-[codigo](https://github.com/jesusvittee/todo-list-react) | [Ver web](https://jesusvittee.github.io/platzi-travel/public/)
-[codigo](https://github.com/jesusvittee/platzi-travel) |
+| [Ver web](https://jesusvittee.github.io/todo-list-react/)  [Ver web](https://jesusvittee.github.io/platzi-travel/public/)
+[codigo](https://github.com/jesusvittee/todo-list-react) | [codigo](https://github.com/jesusvittee/platzi-travel) |
 
 ##### Yard Sale
 - [Ver web](https://jesusvittee.github.io/Yard-sale/)
