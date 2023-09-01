@@ -9,13 +9,13 @@ Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo n
 | [Ver web](https://jesusvittee.github.io/todo-list-react/) | [Ver web](https://jesusvittee.github.io/platzi-travel/public/) |  [Ver web](https://jesusvittee.github.io/Yard-sale/)
 [codigo](https://github.com/jesusvittee/todo-list-react) | [codigo](https://github.com/jesusvittee/platzi-travel) |  [codigo](https://github.com/jesusvittee/Yard-sale) |
 
-##### Shopi
+ Shopi
 - [Ver web](https://jesusvittee.github.io/shopi/)
 - [codigo](https://github.com/jesusvittee/shopi)
-##### Netflix
+ Netflix
 - [Ver web](https://jesusvittee.github.io/Netflix/)
 - [codigo](https://github.com/jesusvittee/Netflix)
-##### Oxxo
+ Oxxo
 - [Ver web](https://jesusvittee.github.io/oxxo/)
 - [codigo](https://github.com/jesusvittee/oxxo)
 
