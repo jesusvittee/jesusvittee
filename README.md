@@ -6,12 +6,12 @@ Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tan
 Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos y algunos detalles 
 |PROYECTO|PAGINA WEB|CODIGO|
 |---|---|---|
-|Todo List| [Ver web](https://jesusvittee.github.io/todo-list-react/) | [codigo](https://github.com/jesusvittee/todo-list-react) 
-|Platzi Travel| [Ver web](https://jesusvittee.github.io/platzi-travel/public/) | [codigo](https://github.com/jesusvittee/platzi-travel) 
-|Yard Sale| [Ver web](https://jesusvittee.github.io/Yard-sale/) | [codigo](https://github.com/jesusvittee/Yard-sale) 
-|Shopi | [Ver web](https://jesusvittee.github.io/shopi/) | [codigo](https://github.com/jesusvittee/shopi)
-|Netflix | [Ver web](https://jesusvittee.github.io/Netflix/) | [codigo](https://github.com/jesusvittee/Netflix) 
-|Oxxo | [Ver web](https://jesusvittee.github.io/oxxo/) | [codigo](https://github.com/jesusvittee/oxxo) |
+|Todo List| [Ver web](https://jesusvittee.github.io/todo-list-react/) | [código](https://github.com/jesusvittee/todo-list-react) 
+|Platzi Travel| [Ver web](https://jesusvittee.github.io/platzi-travel/public/) | [código](https://github.com/jesusvittee/platzi-travel) 
+|Yard Sale| [Ver web](https://jesusvittee.github.io/Yard-sale/) | [código](https://github.com/jesusvittee/Yard-sale) 
+|Shopi | [Ver web](https://jesusvittee.github.io/shopi/) | [código](https://github.com/jesusvittee/shopi)
+|Netflix | [Ver web](https://jesusvittee.github.io/Netflix/) | [código](https://github.com/jesusvittee/Netflix) 
+|Oxxo | [Ver web](https://jesusvittee.github.io/oxxo/) | [código](https://github.com/jesusvittee/oxxo) |
  
 
 
