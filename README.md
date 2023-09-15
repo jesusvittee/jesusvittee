@@ -1,4 +1,5 @@
-![fondo perfil ](https://github.com/jesusvittee/jesusvittee/assets/127768350/e593c932-934f-45db-aa1d-a372eb502290)
+![fondo perfil](https://github.com/jesusvittee/jesusvittee/assets/127768350/3d561778-9a58-4d01-95c1-a6b8f2d80524)
+
 
 Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
 
