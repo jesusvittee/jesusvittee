@@ -1,12 +1,11 @@
 
 ![fondo perfil ](https://github.com/jesusvittee/jesusvittee/assets/127768350/08c69c98-1e52-4ecf-a597-a28815fa4d45)
 
+As a Frontend Developer, I program web applications in JavaScript language, both on the client and server side, solving technical problems to provide efficient and customized solutions to clients.
 
-Como Full Stack Developer, programo aplicaciones web en lenguaje JavaScript, tanto en el lado del cliente como en el del servidor, resuelvo problemas técnicos para proporcionar soluciones eficientes y personalizadas a los clientes.
-
-###  🚀 Proyectos.
-Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo nuevas formas de programar, aquí hay algunos de mis mejores proyectos y algunos detalles 
-|PROYECTO|PAGINA WEB|CODIGO|
+###  🚀 Projects.
+These projects were made in order to practice and continue learning new ways of programming, here are some of my best projects and some details
+|PROJECT|WEB PAGE|CODE|
 |---|---|---|
 |Todo List| [Ver web](https://jesusvittee.github.io/todo-list-react/) | [código](https://github.com/jesusvittee/todo-list-react) 
 |Platzi Travel| [Ver web](https://jesusvittee.github.io/platzi-travel/public/) | [código](https://github.com/jesusvittee/platzi-travel) 
@@ -19,8 +18,8 @@ Estos proyectos fueron realizados con el fin de practicar y seguir aprendiendo n
 
 
 ###  💻 Skills.
-🟩 Tome los cursos en Platzi, 
-todas mis certificaciones [aquí](https://platzi.com/p/jesusvittee/).
+🟩 take courses at Platzi, 
+All my cetifications here [aquí](https://platzi.com/p/jesusvittee/).
 
 |Lenguaje de programación|Frontend|Backend|
 |---|---|---|
@@ -31,5 +30,5 @@ todas mis certificaciones [aquí](https://platzi.com/p/jesusvittee/).
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Mi pagina web.
-Tengo una pagina web por si gustas visitarlo [aquí](https://jesusvite.com/)
+### My web site.
+[aquí](https://jesusvite.com/)
