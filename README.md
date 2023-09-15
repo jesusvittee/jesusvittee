@@ -19,7 +19,7 @@ These projects were made in order to practice and continue learning new ways of 
 
 ###  💻 Skills.
 🟩 take courses at Platzi, 
-All my cetifications here [aquí](https://platzi.com/p/jesusvittee/).
+All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
 |Lenguaje de programación|Frontend|Backend|
 |---|---|---|
@@ -31,4 +31,4 @@ All my cetifications here [aquí](https://platzi.com/p/jesusvittee/).
 
 
 ### My web site.
-[aquí](https://jesusvite.com/)
+[🔸](https://jesusvite.com/)
