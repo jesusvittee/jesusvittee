@@ -14,7 +14,7 @@
 - Learning Scikit-learn models
 
 ## 📫 How to reach me:
-- [Your LinkedIn link]
+[https://www.linkedin.com/in/jesusnicolasvite/]
 
 
 ###  🚀 Projects.
