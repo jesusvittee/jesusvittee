@@ -1,7 +1,21 @@
 
-![fondo perfil ](https://github.com/jesusvittee/jesusvittee/assets/127768350/08c69c98-1e52-4ecf-a597-a28815fa4d45)
+# Hi there 👋 I'm Jesús Vite
+🎓 Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
 
-As a Frontend Developer, I program web applications in JavaScript language, both on the client and server side, solving technical problems to provide efficient and customized solutions to clients.
+## 🚀 Technologies I’m learning:
+- Python for Data Science
+- Pandas, NumPy, Matplotlib, Scikit-learn
+- SQL & Databases
+- Machine Learning Basics
+- Data Engineering Concepts (ETL)
+
+## 🌱 Current Projects:
+- Data analysis on [topic you like]
+- Learning Scikit-learn models
+
+## 📫 How to reach me:
+- [Your LinkedIn link]
+
 
 ###  🚀 Projects.
 These projects were made in order to practice and continue learning new ways of programming, here are some of my best projects and some details
