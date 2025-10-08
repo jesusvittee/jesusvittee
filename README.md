@@ -9,10 +9,6 @@
 - Machine Learning Basics
 - Data Engineering Concepts (ETL)
 
-## 🌱 Current Projects:
-- Data analysis on [topic you like]
-- Learning Scikit-learn models
-
 ## 📫 How to reach me:
 [https://www.linkedin.com/in/jesusnicolasvite/]
 
