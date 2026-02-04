@@ -24,8 +24,6 @@ These projects were made in order to practice and continue learning new ways of 
 ### Languages and Tools.
 🟩 take courses at Platzi, 
 
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/dc22702d-c559-4266-87d8-e0469a400cb4" />
-
 All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
 |Lenguaje de programación|Frontend|Backend|
