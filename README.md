@@ -21,7 +21,7 @@ These projects were made in order to practice and continue learning new ways of 
 
 
 
-### Skills.
+### Languages and tools.
 🟩 take courses at Platzi, 
 All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
