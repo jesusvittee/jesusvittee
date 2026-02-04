@@ -1,6 +1,6 @@
 
-# Hi there 👋 I'm Jesús Vite
-🎓 Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
+# Hi there I'm Jesús Vite
+Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
 
 ## Technologies I’m learning:
 - Python for Data Science
