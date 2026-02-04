@@ -3,12 +3,6 @@
 Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
 
 ## Technologies I’m learning:
-- Python for Data Science
-- Pandas, NumPy, Matplotlib, Scikit-learn
-- SQL & Databases
-- Machine Learning Basics
-- Data Engineering Concepts (ETL)
-
 ## How to reach me:
 [https://www.linkedin.com/in/jesusnicolasvite/]
 
