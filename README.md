@@ -1,5 +1,5 @@
 
-# Hi there I'm Jesús Vite
+# Hi there 👋 I'm Jesús Vite
 Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
 
 ## Technologies I’m learning:
