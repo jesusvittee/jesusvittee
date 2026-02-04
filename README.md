@@ -2,18 +2,18 @@
 # Hi there 👋 I'm Jesús Vite
 🎓 Computer Systems Engineering student | Aspiring Data Scientist | Python Developer
 
-## 🚀 Technologies I’m learning:
+## Technologies I’m learning:
 - Python for Data Science
 - Pandas, NumPy, Matplotlib, Scikit-learn
 - SQL & Databases
 - Machine Learning Basics
 - Data Engineering Concepts (ETL)
 
-## 📫 How to reach me:
+## How to reach me:
 [https://www.linkedin.com/in/jesusnicolasvite/]
 
 
-###  🚀 Projects.
+### Projects.
 These projects were made in order to practice and continue learning new ways of programming, here are some of my best projects and some details
 |PROJECT|WEB PAGE|CODE|
 |---|---|---|
@@ -27,7 +27,7 @@ These projects were made in order to practice and continue learning new ways of 
 
 
 
-###  💻 Skills.
+### Skills.
 🟩 take courses at Platzi, 
 All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
