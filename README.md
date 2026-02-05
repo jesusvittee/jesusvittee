@@ -28,14 +28,5 @@ All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=5)](https://skillicons.dev)
 
-|Dev Tools|
-|---|
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  </a>
-</p>
-
 ### My web site.
 [🔸CLICK HERE!!](https://jesusvite.com/)
