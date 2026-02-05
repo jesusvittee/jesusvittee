@@ -22,9 +22,10 @@ These projects were made in order to practice and continue learning new ways of 
 
 
 ### Languages and Tools.
+All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 🟩 take courses at Platzi, 
 
-All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3figma&theme=light)](https://skillicons.dev)
 |Lenguaje de programación|Frontend|Backend|
 |---|---|---|
