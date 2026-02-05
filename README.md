@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Jesús Vite
 
-**Frontend Developer** focused on building clean, responsive, and user-friendly web applications.  
-I enjoy learning new technologies and improving my skills through real-world projects.
+**I'm Jesús Vite** — a frontend developer and systems engineering student at ITP Pachuca.  
+I work on a bunch of random web projects in my free time while learning and experimenting with new technologies.
+
 
 ---
 
