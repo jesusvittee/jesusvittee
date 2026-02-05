@@ -26,7 +26,7 @@ All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 🟩 take courses at Platzi, 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=3)](https://skillicons.dev)
 
 |Lenguaje de programación|Frontend|Backend|
 |---|---|---|
