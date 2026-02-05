@@ -36,9 +36,10 @@ These projects were built to **practice, reinforce concepts, and explore differe
 
 ## Languages & Tools
 📚 Certifications and continuous learning on **Platzi** → [View Profile](https://platzi.com/p/jesusvittee/)  
-🟢 *Always learning and improving*
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=5" />
 </p>
 
+*Always learning and improving*
