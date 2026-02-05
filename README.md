@@ -26,7 +26,7 @@ All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 🟩 take courses at Platzi, 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,vite,tailwing,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,vite,tailwing,git,github-ligth,terminal,vsc,mysql,python&perline=3)](https://skillicons.dev)
 |Lenguaje de programación|Frontend|Backend|
 |---|---|---|
 |<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=Vite&logoColor=#f3b2f3" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/npm-E44C30?style=for-the-badge&logo=npm&logoColor=white"/> |
