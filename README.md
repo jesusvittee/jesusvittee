@@ -27,6 +27,3 @@ All my cetifications [Here!!](https://platzi.com/p/jesusvittee/).
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=5)](https://skillicons.dev)
-
-### My web site.
-[🔸CLICK HERE!!](https://jesusvite.com/)
