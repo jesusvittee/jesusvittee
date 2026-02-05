@@ -4,8 +4,6 @@
 I work on a bunch of random web projects in my free time while learning and experimenting with new technologies.
 
 
----
-
 ## How to reach me
 <p align="center">
   <a href="https://www.linkedin.com/in/jesusnicolasvite/">
@@ -16,7 +14,6 @@ I work on a bunch of random web projects in my free time while learning and expe
   </a>
 </p>
 
----
 
 ## Projects
 These projects were built to **practice, reinforce concepts, and explore different frontend patterns and tools**.
@@ -32,7 +29,6 @@ These projects were built to **practice, reinforce concepts, and explore differe
 
 📝 *Each project helped me strengthen my understanding of layouts, component-based architecture, and UI development.*
 
----
 
 ## Languages & Tools
 📚 Certifications and continuous learning on **Platzi** → [View Profile](https://platzi.com/p/jesusvittee/)  
