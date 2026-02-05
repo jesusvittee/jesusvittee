@@ -3,6 +3,11 @@
 
 ## How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús%20Nicolás%20Vite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusnicolasvite/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusnicolasvite/)
+
+
+[![Website](https://img.shields.io/badge/Website-jesusvite.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jesusvite.com)
+[![Website](https://img.shields.io/badge/Portfolio-jesusvite.com-ff4081?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jesusvite.com)
 
 
 ### Projects.
