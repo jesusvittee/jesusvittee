@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-**I'm Jesús Vite** — a frontend developer and systems engineering student at ITP Pachuca.  
+**I'm Jesús Vite** — a systems engineering student at ITP Pachuca.  
 I work on a bunch of random web projects in my free time while learning and experimenting with new technologies.
 
 
