@@ -10,11 +10,11 @@ I work on a bunch of random web projects in my free time while learning and expe
     <img src="https://img.shields.io/badge/LinkedIn-Jesús%20Nicolás%20Vite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jesusvite.com">
-    <img src="https://img.shields.io/badge/Portfolio-jesusvite.com-ff4081?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-jesusvite.com-e4cb86?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
-
-
+#e4cb86
+ff4081
 ## Projects
 These projects were built to **practice, reinforce concepts, and explore different frontend patterns and tools**.
 
