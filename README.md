@@ -13,7 +13,13 @@ I work on a bunch of random web projects in my free time while learning and expe
     <img src="https://img.shields.io/badge/Portfolio-jesusvite.com-e4cb86?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
+## Languages & Tools
+📚 Certifications and continuous learning on **Platzi** → [View Profile](https://platzi.com/p/jesusvittee/)  
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=5" />
+</p>
 
 ## Projects
 These projects were built to **practice, reinforce concepts, and explore different frontend patterns and tools**.
@@ -30,12 +36,6 @@ These projects were built to **practice, reinforce concepts, and explore differe
 📝 *Each project helped me strengthen my understanding of layouts, component-based architecture, and UI development.*
 
 
-## Languages & Tools
-📚 Certifications and continuous learning on **Platzi** → [View Profile](https://platzi.com/p/jesusvittee/)  
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,linux,npm,nextjs,nodejs,ubuntu,vscode,mysql,python&perline=5" />
-</p>
 
 *Always learning and improving*
