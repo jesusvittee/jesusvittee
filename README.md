@@ -31,8 +31,7 @@ These projects were built to **practice, reinforce concepts, and explore differe
 | **Platzi Travel** | [View](https://jesusvittee.github.io/platzi-travel/public/) | [Code](https://yard-sale-proyect.netlify.app/) |
 | **Yard Sale** | [View](https://jesusvittee.github.io/Yard-sale/) | [Code](https://github.com/jesusvittee/Yard-sale) |
 | **Shopi** | [View](https://jesusvittee.github.io/shopi/) | [Code](https://github.com/jesusvittee/shopi) |
-| **Netflix UI Clone** | [View](https://jesusvittee.github.io/Netflix/) | [Code](https://github.com/jesusvittee/Netflix) |
-| **Oxxo UI** | [View](https://jesusvittee.github.io/oxxo/) | [Code](https://github.com/jesusvittee/oxxo) |
+
 
 📝 *Each project helped me strengthen my understanding of layouts, component-based architecture, and UI development.*
 
