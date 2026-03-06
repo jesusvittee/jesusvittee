@@ -13,6 +13,7 @@ I work on a bunch of random web projects in my free time while learning and expe
     <img src="https://img.shields.io/badge/Portfolio-jesusvite.com-e4cb86?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
+
 ## Languages & Tools
 📚 Certifications and continuous learning on **Platzi** → [View Profile](https://platzi.com/p/jesusvittee/)  
 
